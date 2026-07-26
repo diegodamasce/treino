@@ -1,7 +1,7 @@
 {
-  "name": "Treino — Ciclo 1 Hipertrofia",
+  "name": "Treino — Ciclo 2 Recomposição",
   "short_name": "Treino",
-  "description": "App de treino personalizado — Ciclo 1 Hipertrofia Máxima",
+  "description": "App de treino personalizado — Ciclo 2 Recomposição",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0a0a0c",
